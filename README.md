@@ -1,0 +1,2 @@
+# linux-practice
+Study notes
